@@ -163,3 +163,6 @@ This will open your browser up and you will see **Jupyter's Home Page** containi
 
 Congratulations! You are ready to go through the chapters' notebooks!
 
+
+来自于： https://github.com/dvgodoy/pytorchstepbystep
+pytorch深度学习指南-计算机视觉
